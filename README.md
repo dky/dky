@@ -1,9 +1,11 @@
 <p align="center">
-[![1000x420](./ramen.gif)](https://github.com/dky)
+  <img width="460" height="300" src="./ramen.gif">
 </p>
 
 
+
 <!--
+[![1000x420](./ramen.gif)](https://github.com/dky)
 **dky/dky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
