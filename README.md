@@ -1,4 +1,6 @@
+<p align="center">
 [![1000x420](./ramen.gif)](https://github.com/dky)
+</p>
 
 
 <!--
