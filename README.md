@@ -1,4 +1,5 @@
-👋
+[![1000x420](./tenor.gif)](https://github.com/dky)
+
 
 <!--
 **dky/dky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
